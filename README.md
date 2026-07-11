@@ -105,7 +105,7 @@ This section contains screenshots from the project.
 
 <div align="center">
   
-<img width="1956" height="1046" alt="ERD" src="https://github.com/user-attachments/assets/83c6aa41-f572-425f-94c3-7969e263ae4b" />
+<img width="1956" height="1046" alt="ERD" src="https://github.com/user-attachments/assets/1f8a1db2-51bb-41fb-8857-92a8b0dd3b40" />
 
 </div>
 
@@ -121,7 +121,7 @@ This section contains screenshots from the project.
 
 <div align="center">
 
-<img width="1920" height="880" alt="image1" src="https://github.com/user-attachments/assets/c702f10a-5bf9-45b9-916d-1a141fcf4bd4" />
+<img width="1920" height="880" alt="image1" src="https://github.com/user-attachments/assets/81c10c23-93c8-4d4c-9df2-0529d2be81cb" />
 
 </div>
 
@@ -137,9 +137,11 @@ This section contains screenshots from the project.
 
 <div align="center">
 
-<img width="1920" height="858" alt="image2" src="https://github.com/user-attachments/assets/8281e252-cfd0-418a-acbd-a7b43a05e971" />
-<img width="1920" height="887" alt="image3" src="https://github.com/user-attachments/assets/53dcb0b7-c197-4611-94f3-4339afd6752b" />
-<img width="1920" height="882" alt="image4" src="https://github.com/user-attachments/assets/fc86cccb-c048-42c4-94bf-0f46dc81298f" />
+<img width="1920" height="882" alt="image4" src="https://github.com/user-attachments/assets/863e5f6b-a40e-4b85-9080-803a3b1e857d" />
+
+<img width="1920" height="887" alt="image3" src="https://github.com/user-attachments/assets/cdc2c5d8-a664-4b89-854b-087e071a4cf7" />
+
+<img width="1920" height="858" alt="image2" src="https://github.com/user-attachments/assets/d12a0c0f-3a0e-47c3-b589-98b2ce5b41de" />
 
 </div>
 
