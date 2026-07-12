@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗄 BookingLite Database Testing
+# 🗄 Hotel Booking System - [Relational Database]
 
 #### A comprehensive SQL Database Testing project for a Hotel Booking Management System
 
