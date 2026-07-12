@@ -2,7 +2,7 @@
 
 # 🗄 Hotel Booking System - [Relational Database]
 
-#### A comprehensive SQL Database Testing project for a Hotel Booking System
+#### A comprehensive Database Testing project for a Hotel Booking System
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ## 🎯 About this Project
 
-- This repository documents the complete **Database Testing** process for a relational **Hotel Booking System.
+- This repository documents the complete **Database Testing** process for a Hotel Booking System.
 
 - The project demonstrates practical SQL testing techniques including data retrieval, filtering, joins, business rule validation, referential integrity verification, and reporting queries.
 
